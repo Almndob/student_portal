@@ -261,16 +261,16 @@ This project is provided as-is for educational and institutional use.
 ##Screenshots
 
 ### Register
-![‪register](assests/screenshots/register.png)
+![‪register](assets/screenshots/register.png)
 
 ### Login
-![‪login](assests/screenshots/login.png)
+![‪login](assets/screenshots/login.png)
 
 ### ‪Teacher-Dashboard
-![‪Teacher-Dashboard](assests/screenshots/‪Teacher-Dashboard.png)
+![‪Teacher-Dashboard](assets/screenshots/‪Teacher-Dashboard.png)
 
 ### Parent-Dashboard
-![‪parent-dashboard](assests/screenshots/parent-dashboard.png)
+![‪parent-dashboard](assets/screenshots/parent-dashboard.png)
 
 
 
